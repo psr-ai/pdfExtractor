@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin
+
+   id="PDF Table Extractor"
+   iconfile="icon.png"
+   description="PDF Table Extractor"
+   tooltip="Extracting data from PDF files"
+   category="Custom Plugins"
+   classname="plugin.pdfextractor.PDFExtractorStepMeta">
+		
+		<libraries>
+    		<library name="PDFTableExtractor.jar"/>
+		</libraries>
+		
+</plugin>
